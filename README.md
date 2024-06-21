@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhom-Ghosh
 - 👀 I’m interested in ... tech field
-- 🌱 I’m currently learning ...C,Python
+- 🌱 I’m currently learning ...C,Python,web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... subhomghosh836@gmail.com
 - 😄 Pronouns: ...He/Him
